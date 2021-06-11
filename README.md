@@ -1,6 +1,6 @@
 # README
 
-项目图片浏览器
+vscode 插件：图片浏览器
 
 ## Features
 

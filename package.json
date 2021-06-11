@@ -2,7 +2,7 @@
 	"name": "image-explorer",
 	"displayName": "Image Explorer",
 	"description": "show images of projects, import image into jsx/css conveniently",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "zhumuke",
 	"engines": {
 		"vscode": "^1.55.0"
@@ -78,6 +78,10 @@
 				}
 			}
 		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zhumuke/image-explorer.git"
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run package",
